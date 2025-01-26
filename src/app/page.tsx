@@ -87,7 +87,7 @@ export default function Home() {
           [text-shadow:4px_4px_0_#FF1493,8px_8px_0_#4B0082] 
           hover:scale-105 hover:rotate-2 transition-all duration-300
           font-comic">
-          Vishruth's Goofy Adventures
+          Vishruth&apos;s Goofy Adventures
         </h1>
         <p className="text-2xl mt-4 text-yellow-200 font-medium tracking-wide 
           rotate-2 hover:rotate-[-2deg] transition-all duration-300
