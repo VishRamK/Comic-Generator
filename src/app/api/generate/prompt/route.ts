@@ -20,6 +20,8 @@ const SYSTEM_PROMPT = `Create a 3-panel comic story about Vishruth's adventure. 
               ]
             }`;
 
+export const runtime = 'edge';
+
 export async function POST(req: Request) {
   try {
     const { prompt } = await req.json();
